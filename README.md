@@ -15,7 +15,7 @@ The Clients Database app simulates a company's clients database. You can view al
 
 > **You can take a look at the backend repo [here](https://github.com/gilgg/clients-database-backend)**
 
-> **Go to [Website](https://gil-todo-app.netlify.app/)**
+> **Go to [Website](https://gil-clients-database.netlify.app/)**
 
 <br />
 
