@@ -52,4 +52,4 @@ The Clients Database app simulates a company's clients database. You can view al
 
 # Video 🎥
 
-https://user-images.githubusercontent.com/96532357/151238177-e2895421-2350-461d-8e63-40bac2a91301.mp4
+https://user-images.githubusercontent.com/96532357/153711171-50e599aa-15df-4e2b-b6a2-609543317e25.mp4
