@@ -1,0 +1,40 @@
+@import "../../scss/fonts";
+
+.client {
+  &-part-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.3rem;
+    padding: 1rem;
+    font-size: 2rem;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    background: linear-gradient(
+      0deg,
+      rgba(180, 180, 178, 1) 0%,
+      rgba(202, 203, 203, 1) 50%,
+      rgba(210, 208, 208, 1) 100%
+    );
+    cursor: pointer;
+
+    &-icon {
+      display: flex;
+      align-items: center;
+      transition: 0.2s;
+    }
+  }
+
+  &-full-details {
+    display: none;
+    margin-bottom: 1rem;
+    height: 30rem;
+    overflow-y: hidden;
+    background-color: #eee;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+
+    &.active {
+      display: flex;
+    }
+  }
+}

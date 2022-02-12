@@ -1,0 +1,20 @@
+@import "../../scss/fonts";
+
+.header {
+  margin: 0 auto;
+  margin-top: 15rem;
+  width: 80rem;
+  font-family: $font-family;
+  color: #333;
+
+  &-title {
+    text-align: center;
+    font-size: 9rem;
+
+    &-rotate {
+      display: inline-block;
+      color: rgb(58, 58, 218);
+      transform: scale(-1, 1);
+    }
+  }
+}

@@ -1,0 +1,29 @@
+@import "../../scss/fonts";
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+
+  &-btn {
+    padding: 1rem 3rem;
+
+    &.add-client {
+      color: #fff;
+      background-color: rgb(58, 58, 218);
+
+      &:hover {
+        background-color: rgb(50, 50, 184);
+      }
+    }
+
+    &.show-all-clients {
+      color: #fff;
+      background-color: rgb(33, 167, 33);
+
+      &:hover {
+        background-color: rgb(35, 141, 35);
+      }
+    }
+  }
+}
